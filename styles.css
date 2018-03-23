@@ -1,0 +1,39 @@
+p {
+    margin: auto;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right:3%;
+    padding-bottom:3%;
+    font-family:Arial;
+    text-align: left;
+}
+
+h1{
+   margin: auto;
+   font-family: Helvetica; 
+   text-align:center;
+}
+
+h3{
+    margin:auto;
+    font-family:Helvetica;
+    text-align:center;
+}
+
+h4{
+    margin:auto;
+    font-family:Helvetica;
+    text-align:center;
+}
+
+ul{
+    margin:auto;
+    font-family: Helvetica;
+    text-align:left;
+}
+
+footer{
+    margin:auto;
+    font-family: Helvetica;
+    text-align: center;
+}
